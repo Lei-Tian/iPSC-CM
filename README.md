@@ -1,1 +1,1 @@
-# iPSC-CM: www.ipsccm.herokuapp.com
+# iPSC-CM: ipsccm.herokuapp.com
